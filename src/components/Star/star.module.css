@@ -1,0 +1,23 @@
+.line {
+  width: 7rem;
+  height: 0.25rem;
+  background-color: #fff;
+  margin-right: 1rem;
+  border-radius: 1rem;
+}
+.line2 {
+  width: 7rem;
+  height: 0.25rem;
+  background-color: #fff;
+  margin-left: 1rem;
+  border-radius: 1rem;
+}
+.star {
+  font-size: 2rem;
+}
+.dark {
+  background-color: #2c3e50;
+}
+.dark2 {
+  color: #2c3e50;
+}

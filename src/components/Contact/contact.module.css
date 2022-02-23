@@ -1,0 +1,14 @@
+.header {
+  color: #2c3e50;
+  font-size: 3rem;
+  line-height: 2.5rem;
+}
+
+.text {
+  resize: none;
+}
+
+.bttn {
+  color: #fff;
+  background-color: #159a80 !important;
+}

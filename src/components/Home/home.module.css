@@ -1,0 +1,22 @@
+.home {
+  background-color: #1abc9c;
+}
+.img-width {
+  width: 15rem;
+}
+.home h1 {
+  font-size: 4rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+}
+
+.home p {
+  font-size: 1.5rem;
+}
+
+.star {
+  font-size: 2rem;
+}
+
